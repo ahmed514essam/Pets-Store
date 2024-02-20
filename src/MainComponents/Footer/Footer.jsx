@@ -18,7 +18,7 @@ export default function Footer() {
         <div className={styles.one}>
           <h3>Contact Info </h3>
           <p>010 94 46 1846</p>
-          <a>pestsStore1@gmai;.com</a>
+          <a>0000 1111 555 222</a>
           <div className={styles.allsocial}>
             <NavLink>
               <div className={styles.imgesm}>
@@ -71,7 +71,7 @@ export default function Footer() {
       </div>
 
       <div className={styles.ends}>
-        <h3>Copyright © 2023-2024 pets store. All Rights Reserved. </h3>
+        <h3>Copyright © 2023-2024 Scoopy Doo. All Rights Reserved. </h3>
       </div>
     </footer>
   );
