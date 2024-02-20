@@ -1,0 +1,76 @@
+
+
+.linkes {
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    padding-right: 20px;
+}
+.linkes:hover {
+   
+    color: rgb(79, 179, 245);
+
+}
+.mylist {
+    background-color: white;
+    color: black;
+}
+.btn-can {
+    border: none;
+    padding-right: 20px;
+    background-color: white;
+}
+.btn-can:hover {
+    color: rgb(79, 179, 245);
+}
+.about {
+    display: none;
+}
+@media (max-width:750px) {
+    .about {
+        display: block;
+    }
+}
+.honeheader {
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Lemon', serif;
+    font-family: 'Yellowtail'; 
+    font-size: 3em;
+   color: rgb(43, 99, 136);
+   font-weight: 600;
+}
+.buttonformheader {
+    background-color: rgb(79, 179, 245);
+    color: white;
+    padding: 10px 10px;
+    border-radius: 0px 8px 8px 0px;
+    -webkit-border-radius: 0px 8px 8px 0px;
+    -moz-border-radius: 0px 8px 8px 0px;
+    -ms-border-radius: 0px 8px 8px 0px;
+    -o-border-radius: 0px 8px 8px 0px;
+}
+.navbar {
+    z-index: 999;
+
+}
+.cary i 
+{
+     font-size: .9em; 
+color: rgb(79, 179, 245);
+
+}
+.cary {
+    /* background-color: rgb(33, 133, 201); */
+    margin-left: 10px;
+
+  
+}
+.icaryio {
+    height: 25px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   color: white;
+}

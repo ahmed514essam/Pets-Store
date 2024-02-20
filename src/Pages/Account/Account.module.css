@@ -1,0 +1,196 @@
+.allSign {
+    width: 90%;
+
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    flex-direction: column;
+}
+.oneemail {
+    width: 300px;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.oneemail input {
+    width: 100%;
+    height: 40px;
+}
+
+@media (max-width:349px) {
+    
+    .divsign {
+        width: 100%;
+        height: 100px;
+    }
+    .divsign input {
+        width: 90%;
+        margin: auto;
+    }
+
+    .allSign {
+        width: 90%;
+    
+        display: flex;
+        justify-content: center;
+        margin: auto;
+        align-items: center;
+        flex-direction: column;
+    }
+    .oneemail {
+        width: 98%;
+       margin: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .oneemail input {
+        width: 98%;
+        height: 40px;
+    }
+}
+
+
+.allSign h1 {
+    color: rgb(0, 132, 255);
+}
+.forget {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+    width: 300px;
+    place-items: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.forget Link {
+    padding: 10px 10px;
+    border: 0;
+    background-color: rgb(0, 132, 255);
+    color: white;
+text-decoration: none;
+}
+.linkforgetpass {
+    text-decoration: none;
+    color: red;
+}
+.linknew {
+    text-decoration: none;
+    font-weight: 600;
+}
+.linkforgetpass:hover {
+    color: rgb(177, 0, 0);
+}
+/* ==================================================================== */
+
+.allSigne {
+    width: 90%;
+
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    flex-direction: column;
+}
+.oneemaile {
+    width: 300px;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.oneemaile input {
+    width: 100%;
+    height: 40px;
+}
+.divsigne {
+    width: 100%;
+    height: 100px;
+}
+.allSigne h1 {
+    color: rgb(0, 132, 255);
+}
+.forget {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+    width: 300px;
+    place-items: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.forget Link {
+    padding: 10px 10px;
+    border: 0;
+    background-color: rgb(0, 132, 255);
+    color: white;
+text-decoration: none;
+}
+.linkforgetpass {
+    text-decoration: none;
+    color: red;
+}
+.linknew {
+    text-decoration: none;
+    font-weight: 600;
+}
+.linkforgetpass:hover {
+    color: rgb(177, 0, 0);
+}
+
+
+@media (max-width:275px) {
+    
+    .forget {
+        display: flex;
+        flex-direction: column;
+    justify-content: flex-start;
+        width: 98%;
+    }
+    .linkforgetpass {
+        text-decoration:none;
+        color: red;
+        direction: ltr;
+
+    }
+   
+      
+
+
+}
+@media (max-width:349px) {
+    
+    .divsigne {
+        width: 100%;
+        height: 100px;
+    }
+    .divsigne input {
+        width: 90%;
+        margin: auto;
+    }
+
+    .allSigne {
+        width: 90%;
+    
+        display: flex;
+        justify-content: center;
+        margin: auto;
+        align-items: center;
+        flex-direction: column;
+    }
+    .oneemaile {
+        width: 98%;
+       margin: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .oneemaile input {
+        width: 98%;
+        height: 40px;
+    }
+}

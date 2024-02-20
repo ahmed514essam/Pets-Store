@@ -1,0 +1,58 @@
+.btnAcc {
+    flex-direction: row;
+    gap: 10px;
+}
+@media (max-width:280px) {
+    
+    .btnAcc {
+        flex-direction:column-reverse;
+    }
+    .paraAcc {
+        font-size: .9em;
+    }
+}
+
+.overlaye {
+        
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: rgb(34, 34, 34);
+  opacity: 90%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+    
+}
+.alerte {
+  background-color: white;
+  width: 350px;
+  padding: 12px;
+  max-width: 480px;
+  border-radius:9px ;
+  -webkit-border-radius:9px ;
+  -moz-border-radius:9px ;
+  -ms-border-radius:9px ;
+  -o-border-radius:9px ;
+  z-index: 9999;
+}
+
+.btnalerte {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.alerte button {
+    border: none;
+    padding: 10px 10px;
+    font-weight: 600;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    color: rgb(141, 56, 56);
+}

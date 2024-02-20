@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.errorbig {
+    text-align: center;
+ 
+}
+.head {
+    color: red;
+    font-size: 3.4em;
+    font-weight: 600;
+}
+.para {
+    font-size: 1.5em;
+}
+.btn {
+    padding: 15px 20px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    border: 1px solid red;
+   color: red;
+   font-weight: 700;
+}

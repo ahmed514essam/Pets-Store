@@ -1,0 +1,327 @@
+.firstthig {
+    height: 100%;
+    width: 92%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    place-items: center;
+   line-height: 13rem;
+   margin-bottom: 10rem;
+  
+}
+.twoimgsec{
+  border-radius:18px ;
+  -webkit-border-radius:18px ;
+  -moz-border-radius:18px ;
+  -ms-border-radius:18px ;
+  -o-border-radius:18px ;
+  
+}
+.oneimgsec {
+display: none;
+
+
+}
+
+@media (max-width:531px) {
+  .oneimgsec {
+    display: block;
+    border-radius:18px ;
+    -webkit-border-radius:18px ;
+    -moz-border-radius:18px ;
+    -ms-border-radius:18px ;
+    -o-border-radius:18px ;
+   
+    
+    } 
+    .twoimgsec {
+      display: none;
+    }
+
+ }
+
+ 
+@media  (max-width:436px) {
+  
+.firstthig {
+  margin-bottom: 25rem;
+}
+
+}
+
+
+
+
+  
+
+
+.storespro:hover {
+opacity: 62%;
+}
+
+ .secfour {
+  text-align: center;
+ }
+.allimges {
+    display: grid;
+   
+    place-items: center;
+    grid-gap:10px;
+    padding: 10px;
+    margin: auto;
+   
+    
+}
+
+
+
+
+
+@media (min-width: 350px) and (max-width: 575px) {
+  .allimges {
+    grid-template-columns: repeat(2, 1fr);
+
+  }
+  
+  .allimges img:nth-child(1) {
+      
+    order: 1;
+  }
+  .allimges img:nth-child(2) {
+    order: 3;
+  }
+  .allimges img:nth-child(3) {
+    order: 2;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .allimges {
+    grid-template-columns: repeat(3, 1fr);
+
+  }
+  
+  .allimges img:nth-child(1) {
+    order: 1;
+  }
+  .allimges img:nth-child(2) {
+    order: 3;
+  }
+  .allimges img:nth-child(3) {
+    order: 2;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .allimges {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  .allimges img:nth-child(1) {
+    order: 1;
+  }
+  .allimges img:nth-child(2) {
+    order: 3;
+  }
+  .allimges img:nth-child(3) {
+    order: 2;
+  }
+}
+
+
+
+
+
+/* ===================================================================
+================================================================== */
+
+
+
+
+.secthree {
+  height: 20rem;
+ 
+  display: flow-root;
+  flex-direction: column;
+ 
+}
+.secthree h2 {
+  text-align: center;
+}
+.storespro {
+width: 200px;
+
+margin-top: 20px;
+
+}
+
+.storespro img {
+  object-fit: cover;
+  width: 100%;
+
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+ 
+
+
+@media only screen and (max-width: 537px) and (min-width: 422px)  {
+
+
+.secthree {
+  margin-top: 31rem;
+}
+
+
+
+}
+
+
+
+
+@media (max-width: 461px) { 
+.secthree {
+  display: flex;
+  flex-direction: column;
+  height:  70rem ;
+}
+.secthree .content {
+display: flex;
+flex-direction: column;
+place-items: center;
+}
+
+}
+
+
+@media (max-width: 275px) { 
+  .secthree {
+    display: flex;
+    flex-direction: column;
+    height:  68rem ;
+  }
+ 
+  .secthree {
+    margin-top: 20rem;
+  }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.imgbrand img {
+    width: 100%;
+    object-fit:fill;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.secfour {
+    margin-bottom: 150px;
+}
+
+.imgbrand {
+    width: 300px;
+  
+}
+
+.secfour h2 {
+    font-weight: 700;
+} 
+
+
+
+
+
+
+
+
+
+
+.imgbrand img:hover {
+    opacity: 70%;
+}
+
+@media (max-width: 615px) {
+  .firstthig {
+    height: 250px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    }
+    .firstthig {
+      margin-bottom: 5rem;
+    }
+    .firstthig {
+      height: 100%;
+      width: 92%;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      place-items: center;
+     line-height: 10rem;
+     margin-bottom: 1rem;
+    
+  }
+}
+@media screen and (max-width:275px) {
+
+ 
+    .firstthig {
+      height: 210px;
+     line-height: 10rem;
+  }
+
+
+
+}@media (min-width: 349px) and (max-width: 421px) {
+
+
+  .firstthig {
+    height: 600px;
+   line-height: 10rem;
+}
+
+}
+@media (min-width: 428px) and (max-width: 530px) {
+
+
+  .firstthig {
+    height: 200px;
+   line-height: 10rem;
+}
+
+}
+@media (min-width: 538px) and (max-width: 610px) {
+
+
+  .firstthig {
+    height: 400px;
+   line-height: 10rem;
+}
+
+}
+@media (min-width: 530px) and (max-width: 532px) {
+
+
+  .firstthig {
+    height: 300px;
+   line-height: 10rem;
+}
+
+}

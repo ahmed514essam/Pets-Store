@@ -1,0 +1,245 @@
+{
+    "cats": [
+      {
+        "id": 14458 ,
+        "name": "Angel",
+        "species": "Cat",
+        "Price": "200 EGP",
+        "age": 5,
+       
+        "owner": {
+          "name": "Alice",
+          "contact": "alice12@gmail.com",
+          "Price": "400 EGP"
+         
+        },
+        "image":"./../public/Cats/Angel.jpg"
+      },
+
+
+
+      {
+        "id": 28448 ,
+        "name": "Casper",
+        "species": "Cats",
+        "Price": "160 EGP",
+        "age": 7,
+        
+        "owner": {
+          "name": "Bob",
+          "contact": "bob52@gmail.com"
+        },
+        "image": "../public/Cats/Casper.jpg"
+      },
+      {
+        "id": 34864 ,
+        "name": "Cleo",
+        "species": "Dog",
+        "age": 6,
+        
+        "Price": "400 EGP",
+        "owner": {
+          "name": "Charlie",
+          "contact": "charlie@gmail.com"
+        },
+        "image": "../public/Cats/Cleo.jpg"
+      },
+      {
+        "id": 456464 ,
+        "name": "Cupcake",
+        "species": "Dog",
+        "Price": "250 EGP",
+        "age": 5,
+        
+        "owner": {
+          "name": "Diana",
+          "contact": "diana@gmail.com"
+        },
+        "image": "../public/Cats/Cupcake.jpg"
+      },
+      {
+        "id": 4545 ,
+        "name": "Garfield",
+        "species": "Cats",
+        "Price": "450 EGP",
+        "age": 4,
+       
+        "owner": {
+          "name": "Eva",
+          "contact": "evaivan2@gmail.com"
+        },
+        "image": "../public/Cats/Garfield.jpg"
+      },
+      {
+        "id": 5565 ,
+        "name": "Kitty",
+        "species": "Cats",
+        "Price": "300 EGP",
+        "age": 3,
+        "owner": {
+          "name": "Frank",
+          "contact": "frank@example.com"
+        },
+        "image": "../public/Cats/Kitty.jpg"
+      },
+      {
+        "id": 82564 ,
+        
+        "name": "Luna",
+        "species": "Cats",
+        "Price": "154 EGP",
+        "age": 5,
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@yahoo.com"
+         
+        },
+        "image": "../public/Cats/Luna.jpg"
+      },
+      {
+        "id": 87153 ,
+        "name": "Mango",
+        "species": "Cats",
+        "age": 1,
+        "owner": {
+          "name": "goo",
+          "contact": "alicgooe@example.com"
+        },
+        "image": "../public/Cats/Mango.jpg"
+      },
+      {
+        "id": 89972 ,
+        "name": "Milo",
+        "species": "Cats",
+        "Price": "365 EGP",
+        "age": 3,
+        "owner": {
+          "name": "Sam",
+          "contact": "alice@example.com"
+        },
+        "image": "../public/Cats/Milo.jpg"
+      },
+      {
+        "id": 32787 ,
+        "name": "Mimi",
+        "species": "Cats",
+        "Price": "135 EGP",
+        "age": 4,
+        
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+        },
+        "image": "../public/Cats/Mimi.jpg"
+      },
+      {
+        "id": 3584 ,
+        "name": "Mittens",
+        "species": "Cats",
+        "age": 4,
+        
+        "Price": "514 EGP",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+        },
+        "image": "../public/Cats/Mittens.jpg"
+      },
+      {
+        "id": 898256 ,
+        "name": "Whiskers",
+        "species": "Cats",
+        "age": 2,
+        "Price": "122 EGP",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+        },
+        "image": "../public/Cats/Whiskers.jpg"
+      },
+      {
+        "id": 8264 ,
+        "name": "Luna",
+        "species": "Cats",
+        "age": 3,
+        "Price": "450 EGP",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+
+                 },
+        "image": "../public/Cats/Simba.jpg"
+      },
+      {
+        "id": 3268 ,
+        "name": "Shadow",
+        "species": "Cats",
+        "age": 2,
+       
+        "Price": "400 EGP",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+        },
+        "image": "../public/Cats/Shadow.jpg"
+      },
+      {
+        "id": 36845 ,
+        "name": "Sasha",
+        "species": "Cats",
+        "age": 3,
+        "Price": "700 EGP",
+     
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+        },
+        "image": "../public/Cats/Sasha.jpg"
+      },   {
+        "id": 3258 ,
+        "name": "Pumpkin",
+        "species": "Cats",
+        "Price": "400 EGP",
+        "age": 5,
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+        },
+        "image": "../public/Cats/Pumpkin.jpg"
+      },   {
+        "id": 8759 ,
+        "name": "Peanut",
+        "species": "Cats",
+        "Price": "40$",
+        "age": 4,
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+        },
+        "image": "../public/Cats/Peanut.jpg"
+      },   {
+        "id": 16987 ,
+        "name": "Oreo",
+        "species": "cats",
+        "Price": "120$",
+        "age": 2,
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+        },
+        "image": "../public/Cats/Oreo.jpg"
+      },  
+       {
+        "id": 514544 ,
+        "name": "Nala",
+        "species": "Cats",
+        "age": 3,
+        "Price": "250.5 EGP",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+        },
+        "image": "../public/Cats/Nala.jpg"
+    }
+]}

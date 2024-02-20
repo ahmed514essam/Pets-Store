@@ -1,0 +1,371 @@
+{
+    "pets": [
+      {
+        "id": 1 ,
+        "name": "Bailey",
+        "species": "Dog",
+        "Price": "520 EGP",
+        "age": 5,
+        "color": "White and Black",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice12@gmail.com",
+          "Price": "400 EGP"
+         
+        },
+        "image":"./../public/Dogs/Bailey.jpg"
+      },
+
+
+
+      {
+        "id": 2 ,
+        "name": "Bear",
+        "species": "Dog",
+        "Price": "300 EGP",
+        "age": 2,
+        "color": "Brown",
+        "owner": {
+          "name": "Bob",
+          "contact": "bob52@gmail.com"
+        },
+        "image": "../public/Dogs/Bear.jpg"
+      },
+      {
+        "id": 3 ,
+        "name": "Buddy",
+        "species": "Dog",
+        "age": 6,
+        "color": "Brown",
+        "Price": "150 EGP",
+        "owner": {
+          "name": "Charlie",
+          "contact": "charlie@gmail.com"
+        },
+        "image": "../public/Dogs/Buddy.jpg"
+      },
+      {
+        "id": 4 ,
+        "name": "Charlie",
+        "species": "Dog",
+        "Price": "400 EGP",
+        "age": 5,
+        "color": "Brown",
+        "owner": {
+          "name": "Diana",
+          "contact": "diana@gmail.com"
+        },
+        "image": "../public/Dogs/Charlie.jpg"
+      },
+      {
+        "id": 5 ,
+        "name": "Chloe",
+        "species": "Dog",
+        "Price": "450 EGP",
+        "age": 4,
+        "color": "Brown",
+        "owner": {
+          "name": "Eva",
+          "contact": "evaivan2@gmail.com"
+        },
+        "image": "../public/Dogs/Chloe.jpg"
+      },
+      {
+        "id": 6 ,
+        "name": "Cooper",
+        "species": "Dog",
+        "Price": "540 EGP",
+        "age": 3,
+        "color": "Brown",
+        "owner": {
+          "name": "Frank",
+          "contact": "frank@example.com"
+        },
+        "image": "../public/Dogs/Cooper.jpg"
+      },
+      {
+        "id": 7 ,
+        "name": "Duke",
+        "species": "Dog",
+        "Price": "154 EGP",
+        "age": 5,
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@yahoo.com"
+         
+        },
+        "image": "../public/Dogs/Duke.jpg"
+      },
+      {
+        "id": 8 ,
+        "name": "Jack",
+        "species": "Dog",
+        "age": 1,
+        "color": "Gray",
+        "owner": {
+          "name": "goo",
+          "contact": "alicgooe@example.com"
+         
+        },
+        "image": "../public/Dogs/Jack.jpg"
+      },
+      {
+        "id": 9 ,
+        "name": "Lily",
+        "species": "Dog",
+        "Price": "365 EGP",
+        "age": 3,
+        "color": "Gray",
+        "owner": {
+          "name": "Sam",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Lily.jpg"
+      },
+      {
+        "id": 10 ,
+        "name": "Lola",
+        "species": "Dog",
+        "Price": "135 EGP",
+        "age": 4,
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Lola.jpg"
+      },
+      {
+        "id": 11 ,
+        "name": "Maggie",
+        "species": "Dog",
+        "age": 4,
+        "color": "Gray",
+        "Price": "514 EGP",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Maggie.jpg"
+      },
+      {
+        "id": 12 ,
+        "name": "Lucy",
+        "species": "Dog",
+        "age": 2,
+        "color": "Gray",
+        "Price": "122 EGP",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Lucy.jpg"
+      },
+      {
+        "id": 13 ,
+        "name": "Luna",
+        "species": "Dog",
+        "age": 3,
+        "color": "Gray",
+        "Price": "450 EGP",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Luna.jpg"
+      },
+      {
+        "id": 14 ,
+        "name": "Murphy",
+        "species": "Dog",
+        "age": 2,
+        "color": "Gray",
+        "Price": "400 EGP",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Murphy.jpg"
+      },
+      {
+        "id": 15 ,
+        "name": "Winston",
+        "species": "Dog",
+        "age": 3,
+        "Price": "700 EGP",
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Winston.jpg"
+      },   {
+        "name": "Tucker",
+        "species": "Dog",
+        "id": 17 ,
+        "Price": "400 EGP",
+        "age": 5,
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Tucker.jpg"
+      },   {
+        "id": 18 ,
+        "name": "Teddy",
+        "species": "Dog",
+        "Price": "40$",
+        "age": 4,
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Teddy.jpg"
+      },   {
+        "id": 989 ,
+        "name": "Stella",
+        "species": "Dog",
+        "Price": "120$",
+        "age": 2,
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Stella.jpg"
+      },   {
+        "id": 685 ,
+        "name": "Sophie",
+        "species": "Dog",
+        "age": 3,
+        "color": "Gray",
+        "Price": "250.5 EGP",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Sophie.jpg"
+      },   {
+        "id": 487 ,
+        "name": "Sammy",
+        "species": "Dog",
+        "age": 2,
+        "color": "Gray",
+        "Price": "50$",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Sammy.jpg"
+      },   {
+        "id": 200 ,
+        "name": "Sadie",
+        "species": "Dog",
+        "Price": "350 EGP",
+        "age": 2,
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Sadie.jpg"
+      },   {
+        "id": 656 ,
+        "name": "Ruby",
+        "species": "Dog",
+        "age": 3,
+        "color": "Gray",
+        "Price": "400 EGP",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Ruby.jpg"
+      },   {
+        "id": 300 ,
+        "name": "Roxy",
+        "species": "Dog",
+        "Price": "400 EGP",
+        "age": 1.5,
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Roxy.jpg"
+      },   {
+        "id": 400 ,
+        "name": "Rocky",
+        "species": "Dog",
+        "Price": "400 EGP",
+        "age": 5.5,
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Rocky.jpg"
+      },   {
+        "id": 500 ,
+        "name": "Oscar",
+        "species": "Dog",
+        "Price": "150 EGP",
+        "age": "5month",
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Oscar.jpg"
+      },   {
+        "id": 600 ,
+        "name": "Oliver",
+        "species": "Dog",
+        "Price": "200 EGP",
+        "age": 1,
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Oliver.jpg"
+      },   {
+        "id": 800 ,
+        "name": "Molly",
+        "species": "Dog",
+        "Price": "120 EGP",
+        "age": 4,
+        "color": "Gray",
+        "owner": {
+          "name": "Alice",
+          "contact": "alice@example.com"
+         
+        },
+        "image": "../public/Dogs/Molly.jpg"
+      }
+
+     
+    ]
+  }
+  

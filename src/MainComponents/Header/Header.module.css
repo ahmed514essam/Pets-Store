@@ -1,0 +1,271 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.parent {
+    width: 100%;
+    position: sticky;
+    height: 130px;
+  
+ 
+}
+.one {
+background-color:rgb(255, 199, 95);
+height: 40px;
+
+}
+
+
+.one .lks {
+   
+    width: 50%;
+
+
+   margin-left: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+ .one .lis {
+    text-decoration: none;
+    font-size: 1em;
+    color: rgb(0, 46, 0);
+    margin-top: 10px;
+}
+.one .lis:hover {
+    color: rgb(0, 129, 0);
+} 
+
+
+@media   (max-width: 500px) {
+    .lis {
+
+    display: none;
+   }
+  }
+
+
+  @media   (max-width: 773px) {
+ .navyes {
+    display: none;
+ }
+ .spanmenulist {
+    display: none;
+ }
+
+
+ .one .lks {
+    display: none;
+ }
+
+  }
+   
+
+.twocac {
+    display: none;
+}
+
+@media (max-width :773px) {
+    .twocac {
+        display: flex;
+        background-color: rgb(105, 41, 41);
+        text-align: center;
+        font-size: 1.8em;
+     
+    }
+}
+
+
+.titletwo {
+    font-size: .2em;
+}
+.main h1 {
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Lemon', serif;
+    font-family: 'Yellowtail';
+    font-size: 3em;
+    color: rgb(49, 76, 124);
+}
+@media (max-width: 434px){
+    .main h1 {
+      
+        font-size: 2em;
+   
+    }
+}
+
+
+@media (max-width: 299px){
+    .main {
+        width: 100%;
+        height: 89px;
+        display: flex;
+        flex-direction: row;
+        justify-content:center;
+        background-color: rgb(248, 248, 248);
+        box-shadow: 0px .7px rgb(233, 233, 233);
+        align-items: center;
+        padding-left: 5px;
+    
+    
+    }
+}
+@media (max-width: 273px){
+    .main {
+        width: 95%;
+        padding-left: 0px;
+    }
+    .main h1 {
+       text-align: center;
+    }
+}
+@media (max-width: 273px){
+   
+        
+        
+        .one .lks {
+           visibility: hidden;
+display: none;
+        }
+        
+     
+}
+
+
+.fgg {
+    font-size: 2em;
+}
+.main .navyes {
+font-family: sans-serif;
+font-weight: bold;
+}
+.navyes Link {
+    background-color: aqua;
+}
+ .btn {
+    background-color:rgb(255, 199, 95);
+    margin-left: 0;
+    border: none;
+    padding-top: 7px;
+}
+.dropy {
+    text-decoration: none;
+    color: black;
+    font-size: .9em;
+    
+    
+}
+.big {
+    background-color: rgb(204, 124, 19);
+    width: 30%;
+}
+.inpute {
+    margin-right: 20px;
+}
+.inpute input {
+    height: 45px;
+    border-right: none;
+    width: 150px;
+    border: none;
+    font-size: .8em;
+    align-items: center;
+    border-radius:8px 0 0 8px ;
+    -webkit-border-radius:8px 0 0 8px ;
+    -moz-border-radius:8px 0 0 8px ;
+    -ms-border-radius:8px 0 0 8px ;
+    -o-border-radius:8px 0 0 8px ;
+}
+.inpute input:active {
+ border-color: rgb(248, 248, 248);
+}
+.inpute button {
+    height: 45px;
+    background-color: rgb(0, 132, 255);
+    border-left: none;
+    width: 37px;
+    border: 0;
+    border-radius: 0 8px 8px 0;
+    -webkit-border-radius: 0 8px 8px 0;
+    -moz-border-radius: 0 8px 8px 0;
+    -ms-border-radius: 0 8px 8px 0;
+    -o-border-radius: 0 8px 8px 0;
+}
+path {
+    fill: white;
+}
+
+.menu {
+    width: 150px;
+}
+.mySpan {
+    font-size: 2em;
+}
+
+.menuli button {
+    border: none;
+    background-color: white;
+}
+
+.cover {
+    width: 80%;
+   
+    direction: ltr;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 10;
+    opacity: 98%;
+  
+}
+.iconA button {
+    border: none;
+    background-color: white;
+}
+.cover .lists {
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  gap: 15px;
+
+}
+.cover .lists .myLinky {
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+.cover .lists .myLinky:hover {
+    color: blanchedalmond;
+}
+.closer {
+ position: relative;
+    top: 0;
+    right: 0;
+    font-size: 2em;
+    color: rgb(156, 156, 156);
+    padding-right: 15px;
+padding-top: 15px;
+}
+.styleList {
+    width: 100%;
+    height: 80%;
+}
+.iconA {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: right;
+}
