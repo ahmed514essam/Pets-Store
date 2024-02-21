@@ -48,7 +48,7 @@ function CanvasItem({
           </div>
 
           <button className={style.button} onClick={RemoveFromCart}>
-            <i class="fa-solid fa-trash"></i>
+            <i className="fa-solid fa-trash"></i>
           </button>
         </div>
       </section>

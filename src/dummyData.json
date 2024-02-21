@@ -13,7 +13,7 @@
           "Price": "400 EGP"
          
         },
-        "image":"/public/Dogs/Bailey.jpg"
+        "image":"/Dogs/Bailey.jpg"
       },
 
 
@@ -29,7 +29,7 @@
           "name": "Bob",
           "contact": "bob52@gmail.com"
         },
-        "image": "/public/Dogs/Bear.jpg"
+        "image": "/Dogs/Bear.jpg"
       },
       {
         "id": 3 ,
@@ -42,7 +42,7 @@
           "name": "Charlie",
           "contact": "charlie@gmail.com"
         },
-        "image": "/public/Dogs/Buddy.jpg"
+        "image": "/Dogs/Buddy.jpg"
       },
       {
         "id": 4 ,
@@ -55,7 +55,7 @@
           "name": "Diana",
           "contact": "diana@gmail.com"
         },
-        "image": "/public/Dogs/Charlie.jpg"
+        "image": "/Dogs/Charlie.jpg"
       },
       {
         "id": 5 ,
@@ -68,7 +68,7 @@
           "name": "Eva",
           "contact": "evaivan2@gmail.com"
         },
-        "image": "/public/Dogs/Chloe.jpg"
+        "image": "/Dogs/Chloe.jpg"
       },
       {
         "id": 6 ,
@@ -81,7 +81,7 @@
           "name": "Frank",
           "contact": "frank@example.com"
         },
-        "image": "/public/Dogs/Cooper.jpg"
+        "image": "/Dogs/Cooper.jpg"
       },
       {
         "id": 7 ,
@@ -95,7 +95,7 @@
           "contact": "alice@yahoo.com"
          
         },
-        "image": "/public/Dogs/Duke.jpg"
+        "image": "/Dogs/Duke.jpg"
       },
       {
         "id": 8 ,
@@ -108,7 +108,7 @@
           "contact": "alicgooe@example.com"
          
         },
-        "image": "/public/Dogs/Jack.jpg"
+        "image": "/Dogs/Jack.jpg"
       },
       {
         "id": 9 ,
@@ -122,7 +122,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Lily.jpg"
+        "image": "/Dogs/Lily.jpg"
       },
       {
         "id": 10 ,
@@ -136,7 +136,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Lola.jpg"
+        "image": "/Dogs/Lola.jpg"
       },
       {
         "id": 11 ,
@@ -150,7 +150,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Maggie.jpg"
+        "image": "/Dogs/Maggie.jpg"
       },
       {
         "id": 12 ,
@@ -164,7 +164,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Lucy.jpg"
+        "image": "/Dogs/Lucy.jpg"
       },
       {
         "id": 13 ,
@@ -178,7 +178,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Luna.jpg"
+        "image": "/Dogs/Luna.jpg"
       },
       {
         "id": 14 ,
@@ -192,7 +192,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Murphy.jpg"
+        "image": "/Dogs/Murphy.jpg"
       },
       {
         "id": 15 ,
@@ -206,7 +206,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Winston.jpg"
+        "image": "/Dogs/Winston.jpg"
       },   {
         "name": "Tucker",
         "species": "Dog",
@@ -219,7 +219,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Tucker.jpg"
+        "image": "/Dogs/Tucker.jpg"
       },   {
         "id": 18 ,
         "name": "Teddy",
@@ -232,7 +232,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Teddy.jpg"
+        "image": "/Dogs/Teddy.jpg"
       },   {
         "id": 989 ,
         "name": "Stella",
@@ -245,7 +245,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Stella.jpg"
+        "image": "/Dogs/Stella.jpg"
       },   {
         "id": 685 ,
         "name": "Sophie",
@@ -258,7 +258,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Sophie.jpg"
+        "image": "/Dogs/Sophie.jpg"
       },   {
         "id": 487 ,
         "name": "Sammy",
@@ -271,7 +271,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Sammy.jpg"
+        "image": "/Dogs/Sammy.jpg"
       },   {
         "id": 200 ,
         "name": "Sadie",
@@ -284,7 +284,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Sadie.jpg"
+        "image": "/Dogs/Sadie.jpg"
       },   {
         "id": 656 ,
         "name": "Ruby",
@@ -297,7 +297,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Ruby.jpg"
+        "image": "/Dogs/Ruby.jpg"
       },   {
         "id": 300 ,
         "name": "Roxy",
@@ -310,7 +310,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Roxy.jpg"
+        "image": "/Dogs/Roxy.jpg"
       },   {
         "id": 400 ,
         "name": "Rocky",
@@ -323,7 +323,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Rocky.jpg"
+        "image": "/Dogs/Rocky.jpg"
       },   {
         "id": 500 ,
         "name": "Oscar",
@@ -336,7 +336,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Oscar.jpg"
+        "image": "/Dogs/Oscar.jpg"
       },   {
         "id": 600 ,
         "name": "Oliver",
@@ -349,7 +349,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Oliver.jpg"
+        "image": "/Dogs/Oliver.jpg"
       },   {
         "id": 800 ,
         "name": "Molly",
@@ -362,7 +362,7 @@
           "contact": "alice@example.com"
          
         },
-        "image": "/public/Dogs/Molly.jpg"
+        "image": "/Dogs/Molly.jpg"
       }
 
      

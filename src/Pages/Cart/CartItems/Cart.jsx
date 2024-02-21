@@ -55,8 +55,8 @@ function Cart() {
             </tr>
             <tr>
               <td>
-                <img src="/public/dolar.png" />
-                <img src="/public/visa.png" />
+                <img src="/dolar.png" />
+                <img src="/visa.png" />
               </td>
               <td className={styles.namerow}>طرق الدفع</td>
             </tr>

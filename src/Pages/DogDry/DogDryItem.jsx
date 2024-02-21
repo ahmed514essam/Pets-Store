@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './DogDry.module.css'
-import { Link } from 'react-router-dom'
+
 function DogDryItem({ Price , name , image , pid ,  isMyCart , setDogArticles}) {
 
   const addToCart = () => {

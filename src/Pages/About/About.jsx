@@ -4,7 +4,7 @@ export default function () {
   return (
     <>
       <img
-        src="/public/icon/pets.jpg"
+        src="/icon/pets.jpg"
         class="img-fluid w-90"
         alt="..."
       ></img>

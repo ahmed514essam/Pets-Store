@@ -22,18 +22,18 @@ export default function Footer() {
           <div className={styles.allsocial}>
             <NavLink>
               <div className={styles.imgesm}>
-                <img alt="non" src="/public/whatsap.jfif" />
+                <img alt="non" src="/whatsap.jfif" />
               </div>
             </NavLink>
             <NavLink>
               <div className={styles.imgesmk}>
-                <img alt="non" src="/public/instagram.jfif" />
+                <img alt="non" src="/instagram.jfif" />
               </div>
             </NavLink>
           </div>
           <NavLink>
             <div className={styles.imgesml}>
-              <img alt="non" src="/public/facebook.png" />
+              <img alt="non" src="/facebook.png" />
             </div>
           </NavLink>
         </div>
@@ -53,17 +53,17 @@ export default function Footer() {
           <ul>
             <li>
               <div className={styles.imgesd}>
-                <img  src="/public/dolar.png" />
+                <img  src="/dolar.png" />
               </div>
             </li>
             <li>
               <div className={styles.imgesv}>
-                <img  src="/public/visa.png" />
+                <img  src="/visa.png" />
               </div>
             </li>
             <li>
               <div className={styles.imges}>
-                <img  src="/public/ssl.jfif" />
+                <img  src="/ssl.jfif" />
               </div>
             </li>
           </ul>

@@ -6,7 +6,7 @@
         "description": "ALPHA Adult Dog Dry Food 20 KG complete and balanced diet For All Breeds Rich in Omega 3 & 6 With Chicken",
         "Price": 1.200 ,
       "pid":1,
-        "image":"/public/Dog Food/1.jpeg"
+        "image":"/Dog Food/1.jpeg"
       },
       {
         "name": "Migma",
@@ -15,7 +15,7 @@
          "category": "DogDry",
          "pid":2,
        
-         "image":"/public/Dog Food/10.jpg"
+         "image":"/Dog Food/10.jpg"
        },
        {
         "name": "Hoppy Adult",
@@ -24,7 +24,7 @@
          "category": "DogDry",
          "pid":3,
        
-         "image":"/public/Dog Food/11.jpg"
+         "image":"/Dog Food/11.jpg"
        },
        {
         "name": "ALPHA Pupies",
@@ -33,7 +33,7 @@
        
          "pid":4,
          "category": "DogDry",
-         "image":"/public/Dog Food/2.webp"
+         "image":"/Dog Food/2.webp"
        },
        {
         "name": "ALPHA Adult",
@@ -42,7 +42,7 @@
        
          "pid":5,
          "category": "DogDry",
-         "image":"/public/Dog Food/20.jpg"
+         "image":"/Dog Food/20.jpg"
        },
        {
         "name": "Migma",
@@ -51,7 +51,7 @@
          "category": "DogDry",
          "pid":6,
        
-         "image":"/public/Dog Food/22.jpeg"
+         "image":"/Dog Food/22.jpeg"
        },
        {
         "name": "OZZO",
@@ -60,7 +60,7 @@
          "category": "DogDry",
         
          "pid":7,
-         "image":"/public/Dog Food/3.jpg"
+         "image":"/Dog Food/3.jpg"
        },
        {
         "name": "Roial Canin",
@@ -69,7 +69,7 @@
          "category": "DogDry",
          "pid":8,
        
-         "image":"/public/Dog Food/30.webp"
+         "image":"/Dog Food/30.webp"
        },
        {
         "name": "Super Canido",
@@ -78,7 +78,7 @@
          "category": "DogDry",
          "pid":9,
        
-         "image":"/public/Dog Food/4.jpg"
+         "image":"/Dog Food/4.jpg"
        },
        {
         "name": "Roial Canin",
@@ -87,7 +87,7 @@
          "category": "DogDry",
          "pid":10,
        
-         "image":"/public/Dog Food/44.webp"
+         "image":"/Dog Food/44.webp"
        },
        {
         "name": "Super Adult",
@@ -96,7 +96,7 @@
          "category": "DogDry",
          "pid":11,
        
-         "image":"/public/Dog Food/5.jpg"
+         "image":"/Dog Food/5.jpg"
        },
        {
         "name": "Bugges Puppy",
@@ -105,7 +105,7 @@
          "category": "DogDry",
         
          "pid":12,
-         "image":"/public/Dog Food/50.webp"
+         "image":"/Dog Food/50.webp"
        },
        {
         "name": "Proplan",
@@ -114,7 +114,7 @@
          "pid":3,
         
          "category": "DogDry",
-         "image":"/public/Dog Food/544.webp"
+         "image":"/Dog Food/544.webp"
        },
        {
         "name": "ALPHA Pupies",
@@ -123,7 +123,7 @@
          "category": "DogDry",
          "pid":14,
        
-         "image":"/public/Dog Food/5489.jpg"
+         "image":"/Dog Food/5489.jpg"
        },
        {
         "name": "Hight",
@@ -132,7 +132,7 @@
        
          "pid":15,
          "category": "DogDry",
-         "image":"/public/Dog Food/55.jpg"
+         "image":"/Dog Food/55.jpg"
        },
        {
         "name": "ALPHA Adult",
@@ -141,7 +141,7 @@
          "pid":16,
          "category": "DogDry",
        
-         "image":"/public/Dog Food/5646.webp"
+         "image":"/Dog Food/5646.webp"
        },
        {
         "name": "Ixira",
@@ -150,7 +150,7 @@
          "pid":17,
          "category": "DogDry",
        
-         "image":"/public/Dog Food/99.jpg"
+         "image":"/Dog Food/99.jpg"
        },
        {
         "name": "VITE",
@@ -159,7 +159,7 @@
          "category": "DogDry",
          "pid":18,
        
-         "image":"/public/Dog Food/989.webp"
+         "image":"/Dog Food/989.webp"
        },
        {
         "name": "Roial Canin",
@@ -168,7 +168,7 @@
          "category": "DogDry",
          "pid":19,
        
-         "image":"/public/Dog Food/985.webp"
+         "image":"/Dog Food/985.webp"
        },
        {
         "name": "BirBo",
@@ -177,7 +177,7 @@
          "pid":20,
          "category": "DogDry",
        
-         "image":"/public/Dog Food/88.jpg"
+         "image":"/Dog Food/88.jpg"
        },
        {
         "name": "BirBo",
@@ -186,7 +186,7 @@
          "category": "DogDry",
          "pid":21,
        
-         "image":"/public/Dog Food/80.webp"
+         "image":"/Dog Food/80.webp"
        },
        {
         "name": " Adult",
@@ -195,14 +195,14 @@
        
          "category": "DogDry",
          "pid":23,
-         "image":"/public/Dog Food/789.webp"
+         "image":"/Dog Food/789.webp"
        },
        {
         "name": "Purrfect Delight",
          "description": "ALPHA Adult Dog Dry Food 20 KG complete and balanced diet For All Breeds Rich in Omega 3 & 6 With Chicken",
          "Price": 1.200 ,
          "pid":35,
-         "image":"/public/Cat Food/1.jpg",
+         "image":"/Cat Food/1.jpg",
          "category": "CatDry"
        },
        {
@@ -212,7 +212,7 @@
         
           "pid":37,
           "category": "CatDry",
-          "image":"/public/Cat Food/11.jpg"
+          "image":"/Cat Food/11.jpg"
         },
         {
          "name": "Meow Munchies",
@@ -221,7 +221,7 @@
           "pid":36,
           "category": "CatDry",
         
-          "image":"/public/Cat Food/2.webp"
+          "image":"/Cat Food/2.webp"
         },
         {
          "name": "Kitty Cuisine",
@@ -230,7 +230,7 @@
           "category": "CatDry",
           "pid":38,
         
-          "image":"/public/Cat Food/22.webp"
+          "image":"/Cat Food/22.webp"
         },
         {
          "name": "Feline Feast        ",
@@ -239,7 +239,7 @@
           "category": "CatDry",
           "pid":39,
         
-          "image":"/public/Cat Food/3.jpg"
+          "image":"/Cat Food/3.jpg"
         },
         {
          "name": "Catnip Crunch       ",
@@ -248,7 +248,7 @@
         
           "pid":40,
           "category": "CatDry",
-          "image":"/public/Cat Food/4.jpg"
+          "image":"/Cat Food/4.jpg"
         },
         {
          "name": "Velvet Vittles",
@@ -257,7 +257,7 @@
         
           "pid":50,
           "category": "CatDry",
-          "image":"/public/Cat Food/44.jpg"
+          "image":"/Cat Food/44.jpg"
         },
         {
          "name": "Meow Mix Medley",
@@ -266,7 +266,7 @@
         
           "pid":51,
           "category": "CatDry",
-          "image":"/public/Cat Food/5.jpg"
+          "image":"/Cat Food/5.jpg"
         },
         {
          "name": "Culinary Cat Crunch",
@@ -275,7 +275,7 @@
         
           "pid":52,
           "category": "CatDry",
-          "image":"/public/Cat Food/6.jpg"
+          "image":"/Cat Food/6.jpg"
         },
         {
          "name": "Tantalizing Tidbits",
@@ -284,7 +284,7 @@
           "pid":53,
          
           "category": "CatDry",
-          "image":"/public/Cat Food/6969-555x650.webp"
+          "image":"/Cat Food/6969-555x650.webp"
         },
         {
          "name": "Salmon Symphony",
@@ -293,7 +293,7 @@
           "pid":54,
           "category": "CatDry",
         
-          "image":"/public/Cat Food/7.jpg"
+          "image":"/Cat Food/7.jpg"
         },
 
    {
@@ -302,7 +302,7 @@
         "Price": 548 ,
         "pid":35,
         "category": "CatLitter",
-        "image":"/public/Cat Litter/1857-555x650.webp"
+        "image":"/Cat Litter/1857-555x650.webp"
       },
       {
         "name": "Whisker Wonders        ",
@@ -311,7 +311,7 @@
       
          "pid":37,
          "category": "CatLitter",
-         "image":"/public/Cat Litter/25debffb-e650-4e74-a131-3b519846e6b1-555x605.webp"
+         "image":"/Cat Litter/25debffb-e650-4e74-a131-3b519846e6b1-555x605.webp"
        },
        {
         "name": "Meow Munchies",
@@ -320,7 +320,7 @@
          "pid":36,
          "category": "CatLitter",
        
-         "image":"/public/Cat Litter/3321-555x650.webp"
+         "image":"/Cat Litter/3321-555x650.webp"
        },
        {
         "name": "Kitty Cuisine",
@@ -329,7 +329,7 @@
        
          "pid":38,
          "category": "CatLitter",
-         "image":"/public//Cat Litter/666987-555x650.webp"
+         "image":"/Cat Litter/666987-555x650.webp"
        },
        {
         "name": "Feline Feast        ",
@@ -338,7 +338,7 @@
        
          "pid":39,
          "category": "CatLitter",
-         "image":"/public/Cat Litter/BABY-5.jpeg"
+         "image":"/Cat Litter/BABY-5.jpeg"
        },
        {
         "name": "Catnip Crunch       ",
@@ -347,7 +347,7 @@
        
          "pid":40,
          "category": "CatLitter",
-         "image":"/public/Cat Litter/WhatsApp-Image-2022-08-17-at-11.47.29-AM-2-555x650.jpeg"
+         "image":"/Cat Litter/WhatsApp-Image-2022-08-17-at-11.47.29-AM-2-555x650.jpeg"
        },
        {
         "name": "Velvet Vittles",
@@ -356,7 +356,7 @@
        
          "pid":50,
          "category": "CatLitter",
-         "image":"/public/Cat Litter/happet-.webp"
+         "image":"/Cat Litter/happet-.webp"
        },
        {
         "name": "Meow Mix Medley",
@@ -365,7 +365,7 @@
        
          "pid":51,
          "category": "CatLitter",
-         "image":"/public//Cat Litter/666987-555x650.webp"
+         "image":"/Cat Litter/666987-555x650.webp"
        },
        {
         "name": "Culinary Cat Crunch",
@@ -374,7 +374,7 @@
        
          "pid":52,
          "category": "CatLitter",
-         "image":"/public/Cat Litter/jasmeen-555x650.webp"
+         "image":"/Cat Litter/jasmeen-555x650.webp"
        },
        {
         "name": "Tantalizing Tidbits",
@@ -383,7 +383,7 @@
          "pid":513,
          "category": "CatLitter",
        
-         "image":"/public/Cat Litter/kikikat-site-YAN-YUZ_-5KG_MOCK-UP_BABY-POWDER-555x650.jpg"
+         "image":"/Cat Litter/kikikat-site-YAN-YUZ_-5KG_MOCK-UP_BABY-POWDER-555x650.jpg"
        },
        {
         "name": "Salmon Symphony",
@@ -392,7 +392,7 @@
          "pid":514,
         
          "category": "CatLitter",
-         "image":"/public/Cat Litter/Hello-kitty-marseille-soap-10L-555x650.jpg"
+         "image":"/Cat Litter/Hello-kitty-marseille-soap-10L-555x650.jpg"
        },
        {
         "name": "Purrfect Delight",
@@ -400,7 +400,7 @@
          "Price": 1.200 ,
          "pid":24,
          "category": "CatSoft",
-         "image":"/public/Cat Soft Food/050000293292_500x-1-555x650.jpg"
+         "image":"/Cat Soft Food/050000293292_500x-1-555x650.jpg"
        },
        {
          "name": "Whisker Wonders        ",
@@ -409,7 +409,7 @@
           "category": "CatSoft",
           "pid":25,
         
-          "image":"/public/Cat Soft Food/50000-42944-375x450.webp"
+          "image":"/Cat Soft Food/50000-42944-375x450.webp"
         },
         {
          "name": "Meow Munchies",
@@ -418,7 +418,7 @@
           "category": "CatSoft",
           "pid":26,
         
-          "image":"/public/Cat Food/2.webp"
+          "image":"/Cat Food/2.webp"
         },
         {
          "name": "Kitty Cuisine",
@@ -427,7 +427,7 @@
         
           "pid":27,
           "category": "CatSoft",
-          "image":"/public/Cat Soft Food/50000-42984-375x450.webp"
+          "image":"/Cat Soft Food/50000-42984-375x450.webp"
         },
         {
          "name": "Feline Feast        ",
@@ -436,7 +436,7 @@
         
           "pid":28,
           "category": "CatSoft",
-          "image":"/public/Cat Soft Food/51u-qSDWpaL._AC_SX679_-555x650.jpg"
+          "image":"/Cat Soft Food/51u-qSDWpaL._AC_SX679_-555x650.jpg"
         },
         {
          "name": "Catnip Crunch       ",
@@ -445,7 +445,7 @@
           "pid":29,
          
           "category": "CatSoft",
-          "image":"/public/Cat Soft Food/5555-555x650.webp"
+          "image":"/Cat Soft Food/5555-555x650.webp"
         },
         {
          "name": "Velvet Vittles",
@@ -454,7 +454,7 @@
         
           "pid":30,
           "category": "CatSoft",
-          "image":"/public/Cat Soft Food/beef-cat-555x650.webp"
+          "image":"/Cat Soft Food/beef-cat-555x650.webp"
         },
         {
          "name": "Meow Mix Medley",
@@ -463,7 +463,7 @@
           "category": "CatSoft",
           "pid":31,
         
-          "image":"/public/Cat Soft Food/chk-555x650.webp"
+          "image":"/Cat Soft Food/chk-555x650.webp"
         },
         {
          "name": "Culinary Cat Crunch",
@@ -472,7 +472,7 @@
           "category": "CatSoft",
          
           "pid":32,
-          "image":"/public/Cat Soft Food/happet- (1).webp"
+          "image":"/Cat Soft Food/happet- (1).webp"
         },
         {
          "name": "Tantalizing Tidbits",
@@ -481,7 +481,7 @@
           "category": "CatSoft",
           "pid":33,
         
-          "image":"/public/Cat Soft Food/MG_lattina_TS_400-1-555x650.jpg"
+          "image":"/Cat Soft Food/MG_lattina_TS_400-1-555x650.jpg"
         },
         {
          "name": "Salmon Symphony",
@@ -490,7 +490,7 @@
           "pid":34,
          
           "category": "CatSoft",
-          "image":"/public/Cat Soft Food/l_pate_PT_400g-5d761fa31bfc8-555x650.jpg"
+          "image":"/Cat Soft Food/l_pate_PT_400g-5d761fa31bfc8-555x650.jpg"
         }
        
 
