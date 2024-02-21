@@ -13,7 +13,7 @@
           "Price": "400 EGP"
          
         },
-        "image":"./../public/Cats/Angel.jpg"
+        "image":"/public/Cats/Angel.jpg"
       },
 
 
@@ -29,7 +29,7 @@
           "name": "Bob",
           "contact": "bob52@gmail.com"
         },
-        "image": "../public/Cats/Casper.jpg"
+        "image": "/public/Cats/Casper.jpg"
       },
       {
         "id": 34864 ,
@@ -42,7 +42,7 @@
           "name": "Charlie",
           "contact": "charlie@gmail.com"
         },
-        "image": "../public/Cats/Cleo.jpg"
+        "image": "/public/Cats/Cleo.jpg"
       },
       {
         "id": 456464 ,
@@ -55,7 +55,7 @@
           "name": "Diana",
           "contact": "diana@gmail.com"
         },
-        "image": "../public/Cats/Cupcake.jpg"
+        "image": "/public/Cats/Cupcake.jpg"
       },
       {
         "id": 4545 ,
@@ -68,7 +68,7 @@
           "name": "Eva",
           "contact": "evaivan2@gmail.com"
         },
-        "image": "../public/Cats/Garfield.jpg"
+        "image": "/public/Cats/Garfield.jpg"
       },
       {
         "id": 5565 ,
@@ -80,7 +80,7 @@
           "name": "Frank",
           "contact": "frank@example.com"
         },
-        "image": "../public/Cats/Kitty.jpg"
+        "image": "/public/Cats/Kitty.jpg"
       },
       {
         "id": 82564 ,
@@ -95,7 +95,7 @@
           "contact": "alice@yahoo.com"
          
         },
-        "image": "../public/Cats/Luna.jpg"
+        "image": "/public/Cats/Luna.jpg"
       },
       {
         "id": 87153 ,
@@ -106,7 +106,7 @@
           "name": "goo",
           "contact": "alicgooe@example.com"
         },
-        "image": "../public/Cats/Mango.jpg"
+        "image": "/public/Cats/Mango.jpg"
       },
       {
         "id": 89972 ,
@@ -118,7 +118,7 @@
           "name": "Sam",
           "contact": "alice@example.com"
         },
-        "image": "../public/Cats/Milo.jpg"
+        "image": "/public/Cats/Milo.jpg"
       },
       {
         "id": 32787 ,
@@ -131,7 +131,7 @@
           "name": "Alice",
           "contact": "alice@example.com"
         },
-        "image": "../public/Cats/Mimi.jpg"
+        "image": "/public/Cats/Mimi.jpg"
       },
       {
         "id": 3584 ,
@@ -144,7 +144,7 @@
           "name": "Alice",
           "contact": "alice@example.com"
         },
-        "image": "../public/Cats/Mittens.jpg"
+        "image": "/public/Cats/Mittens.jpg"
       },
       {
         "id": 898256 ,
@@ -156,7 +156,7 @@
           "name": "Alice",
           "contact": "alice@example.com"
         },
-        "image": "../public/Cats/Whiskers.jpg"
+        "image": "/public/Cats/Whiskers.jpg"
       },
       {
         "id": 8264 ,
@@ -169,7 +169,7 @@
           "contact": "alice@example.com"
 
                  },
-        "image": "../public/Cats/Simba.jpg"
+        "image": "/public/Cats/Simba.jpg"
       },
       {
         "id": 3268 ,
@@ -182,7 +182,7 @@
           "name": "Alice",
           "contact": "alice@example.com"
         },
-        "image": "../public/Cats/Shadow.jpg"
+        "image": "/public/Cats/Shadow.jpg"
       },
       {
         "id": 36845 ,
@@ -195,7 +195,7 @@
           "name": "Alice",
           "contact": "alice@example.com"
         },
-        "image": "../public/Cats/Sasha.jpg"
+        "image": "/public/Cats/Sasha.jpg"
       },   {
         "id": 3258 ,
         "name": "Pumpkin",
@@ -206,7 +206,7 @@
           "name": "Alice",
           "contact": "alice@example.com"
         },
-        "image": "../public/Cats/Pumpkin.jpg"
+        "image": "/public/Cats/Pumpkin.jpg"
       },   {
         "id": 8759 ,
         "name": "Peanut",
@@ -217,7 +217,7 @@
           "name": "Alice",
           "contact": "alice@example.com"
         },
-        "image": "../public/Cats/Peanut.jpg"
+        "image": "/public/Cats/Peanut.jpg"
       },   {
         "id": 16987 ,
         "name": "Oreo",
@@ -228,7 +228,7 @@
           "name": "Alice",
           "contact": "alice@example.com"
         },
-        "image": "../public/Cats/Oreo.jpg"
+        "image": "/public/Cats/Oreo.jpg"
       },  
        {
         "id": 514544 ,
@@ -240,6 +240,6 @@
           "name": "Alice",
           "contact": "alice@example.com"
         },
-        "image": "../public/Cats/Nala.jpg"
+        "image": "/public/Cats/Nala.jpg"
     }
 ]}

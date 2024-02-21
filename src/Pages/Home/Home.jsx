@@ -28,26 +28,26 @@ export default function Home() {
       <section className={show.firstthig}>
         <img
           className={show.oneimgsec}
-          src="../../../public/winter-collection-tablet.webp"
+          src="/public/winter-collection-tablet.webp"
         />
         <img
           className={show.twoimgsec}
-          src="../../../public/winter-collection-banner-1.webp"
+          src="/public/winter-collection-banner-1.webp"
         />
 
         <div className={styles.sectwo}>
           <div className={styles.dogimg}>
             <img
               onClick={dogstore}
-              alt=""
-              src="../../../public/dogstore.webp"
+             
+              src="/public/dogstore.webp"
             />
           </div>
           <div className={styles.catimg}>
             <img
               onClick={catstore}
               alt=""
-              src="../../../public/catstore.webp"
+              src="/public/catstore.webp"
             />
           </div>
         </div>
@@ -63,28 +63,28 @@ export default function Home() {
             <img
               onClick={catFood}
               alt="cat dry food "
-              src="../../../public/cat dry food.webp"
+              src="/public/cat dry food.webp"
             />{" "}
           </div>
           <div className={show.storespro}>
             <img
               onClick={DogDry}
               alt="dog dry food"
-              src="../../../public/dig dry food.webp"
+              src="/public/dig dry food.webp"
             />{" "}
           </div>
           <div className={show.storespro}>
             <img
               onClick={softCick}
               alt="cat soft food"
-              src="../../../public/cat soft food.webp"
+              src="/public/cat soft food.webp"
             />{" "}
           </div>
           <div className={show.storespro}>
             <img
               onClick={catlitterClick}
               alt="cat litter"
-              src="../../../public/cat litter.webp"
+              src="/public/cat litter.webp"
             />{" "}
           </div>
         </div>
@@ -119,51 +119,51 @@ export default function Home() {
         <h2>Best Selling Brands</h2>
         <div className={show.allimges}>
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="../../../public/Brands/Artboard-2 (1).webp" />
+            <img src="/public/Brands/Artboard-2 (1).webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="../../../public/Brands/Artboard-2-1.webp" />
+            <img src="/public/Brands/Artboard-2-1.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="../../../public/Brands/Artboard-2-copy-10.webp" />
+            <img src="/public/Brands/Artboard-2-copy-10.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="../../../public/Brands/Artboard-2-copy-2.webp" />
+            <img src="/public/Brands/Artboard-2-copy-2.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="../../../public/Brands/Artboard-2-copy-3.webp" />
+            <img src="/public/Brands/Artboard-2-copy-3.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="../../../public/Brands/Artboard-2-copy-4.webp" />
+            <img src="/public/Brands/Artboard-2-copy-4.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="../../../public/Brands/Artboard-2-copy-5.webp" />
+            <img src="/public/Brands/Artboard-2-copy-5.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="../../../public/Brands/Artboard-2-copy-6.webp" />
+            <img src="/public/Brands/Artboard-2-copy-6.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="../../../public/Brands/Artboard-2-copy-7.webp" />
+            <img src="/public/Brands/Artboard-2-copy-7.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="../../../public/Brands/Artboard-2-copy-9.webp" />
+            <img src="/public/Brands/Artboard-2-copy-9.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="../../../public/Brands/Artboard-2-copy.webp" />
+            <img src="/public/Brands/Artboard-2-copy.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="../../../public/Brands/Artboard-2.webp" />
+            <img src="/public/Brands/Artboard-2.webp" />
           </div>
         </div>
       </section>
