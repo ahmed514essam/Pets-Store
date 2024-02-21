@@ -185,98 +185,9 @@ export default function Header() {
         </div>
       </nav>
 
-      {/* ============================================================= */}
-
-      {/* 
-      <div className={style.main}>
-       <Link to={"/"} className="text-decoration-none"><h1 >Scooby Doo</h1></Link> 
-        <nav className={style.navyes}>
-
-
-
-
-
-
-          <button className="btn-can " id={style.fgg} data-bs-toggle="dropdown" aria-expanded="false">
-          Dog Store
-          </button>
-          <ul className="dropdown-menu dropdown-menu-white mylist  ">
-            <li><a className="dropdown-item " href="#">Dry Food for Dogs</a></li>
-            <li><a className="dropdown-item" href="#">Dog Food Wet</a></li>
-            <li><a className="dropdown-item" href="#">Veterinary Diet Food</a></li>
-          </ul>
      
-          <button className="btn-can  " id={style.fgg} data-bs-toggle="dropdown" aria-expanded="false">
-          Cat Store
-          </button>
-          <ul className="dropdown-menu dropdown-menu-white">
-          <li><a className="dropdown-item" href="#">Dry Food for Cats</a></li>
-            <li><a className="dropdown-item" href="#">Cats Food Wet</a></li>
-            <li><a className="dropdown-item" href="#">Cat Vit food Food</a></li>
-          </ul>
-
-          
-
-          
-          <NavLink className="linkes">Brands </NavLink>
-          <NavLink className="linkes">Blog</NavLink>
-          <NavLink to={"/your cart"} className="linkes ">Shopping Cart</NavLink>
-          
-        </nav>
-        
-<div className={style.twocac}>
-<CanVas/>
-</div>
- */}
-
-      {/* <div className={style.inpute}>
-        <span className={style.spanmenulist}>
-          <input placeholder="search..." />
-          <button>
-            <FontAwesomeIcon   icon={faMagnifyingGlass} />
-          </button>
-          </span>
 
 
-          <div className={style.menuli}>
-          <button onClick={openmenu}>
-<span className={style.mySpan}>
-<i className="fa-solid fa-bars"></i>
-</span>
-</button>
-</div>
-
-
-        </div>
-      </div> */}
-
-      {/* {openm ? <div className={style.cover}>
-
-
-<div className={style.iconA}>
-<button onClick={closem}>
-<div className={style.closer}>
-<i className="fa-regular fa-circle-xmark"></i>
-</div>
-</button>
-</div>
-
-
-<div className={style.styleList}>
-<div className={style.lists}>
-  <Link onClick={asdf} to={"/"} className={style.myLinky}>Home</Link>
-  <Link onClick={asdf} to={"/Dogs"} className={style.myLinky}>Dogs Store</Link>
-<Link onClick={asdf} to={"/Cats"} className={style.myLinky}>Cats Store</Link>
-<Link onClick={asdf} to={"//Dog Dry Food"} className={style.myLinky}>Dogs Dry Food</Link>
-<Link onClick={asdf} to={"/Cat Dry Food"} className={style.myLinky}>Cats Dry Food</Link>
-<Link onClick={asdf} to={"/Cats Soft Food"} className={style.myLinky}> Cats Soft Food </Link>
-<Link onClick={asdf} to={"/Cats Litters" } className={style.myLinky}>Cats Litter</Link>
-<Link onClick={asdf} to={"/Account"} className={style.myLinky}>Account</Link>
-</div>
-</div>
-
-
-</div>  : null} */}
     </header>
   );
 }
