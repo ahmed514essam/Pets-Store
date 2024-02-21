@@ -3,6 +3,8 @@ import styles from "./Account.module.css"
 import SignIn from './SignIn/SignIn'
 import { Link } from 'react-router-dom'
 import LogIn from './LoginIn/LogIn'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 export default function AccountPage({setDisplay}) {
 
 

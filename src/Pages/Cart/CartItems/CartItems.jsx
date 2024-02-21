@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from "react";
 import style from "./cssMod/MyCart.module.css";
 import { useNavigate } from "react-router-dom";
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 function CartItems({ Price, name, image, pid, setFovouriteArticles }) {
   const RemoveFromCart = () => {
     setAlert(true);
@@ -94,7 +95,7 @@ const checkregbuy = () => {
           </div>
 
           <button className={style.button} onClick={RemoveFromCart}>
-            <i class="fa-solid fa-trash"></i>
+          <img className={style.rubbish} src="/rubbish.jfif" />
           </button>
         </div>
       </section>

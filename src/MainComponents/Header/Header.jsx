@@ -1,9 +1,8 @@
 import { Link, NavLink } from "react-router-dom";
 import "./Head.css";
 import style from "./Header.module.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-
-import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
 
 import CanVas from "./CanVas";
 import { useState } from "react";
@@ -178,7 +177,7 @@ export default function Header() {
                 className="buttonformheader   border border-start-0 "
                 type="submit"
               >
-                <i className="fa-solid fa-magnifying-glass"></i>
+               <FontAwesomeIcon icon={faMagnifyingGlass} />
               </button>
             </form>
           </div>

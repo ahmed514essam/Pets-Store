@@ -3,6 +3,8 @@ import styles from './CatsProfile.module.css'
 import { Link, useParams } from "react-router-dom";
 import catsData from "../../catsData.json";
 import { useState } from "react";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
 export default function CatsProfile() {
   const { id } = useParams();

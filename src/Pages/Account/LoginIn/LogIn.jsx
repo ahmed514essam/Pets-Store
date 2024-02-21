@@ -1,6 +1,8 @@
 import React, { useState } from 'react'
 import style from "../Account.module.css"
 import { useNavigate } from 'react-router-dom'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 export default function LogIn({setDisplay}) {
 
 

@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import "./MyAcc.css"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import { useNavigate } from 'react-router-dom';
 export default function MyAcc({setDisplay}) {
     const [userData, setUserData]= useState(null);

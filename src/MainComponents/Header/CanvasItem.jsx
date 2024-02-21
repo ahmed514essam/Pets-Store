@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import style from "./Canvas.module.css";
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 function CanvasItem({
   Price,
   name,

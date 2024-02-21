@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
 import MyAcc from '../MyAcc/MyAcc';
 import AccountPage from '../AccountPage';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
 
 

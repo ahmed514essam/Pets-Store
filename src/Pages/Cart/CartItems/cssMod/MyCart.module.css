@@ -224,6 +224,10 @@ font-size: .8em;
         }
 }
 
+.rubbish {
+    width: 50px;
+}
+
 @media (max-width: 480px) {
     .content {
         height: 200px;

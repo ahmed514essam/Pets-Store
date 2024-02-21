@@ -1,6 +1,16 @@
 import { useNavigate } from "react-router-dom";
 import styles from "./Home.module.css";
 import show from "./CompoHome.module.css";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+// import { faCcVisa }  from '@fortawesome/free-solid-svg-icons';
+
+
+// import faTruck  from '@fortawesome/free-solid-svg-icons';
+import { faMoneyBill }  from '@fortawesome/free-solid-svg-icons';
+import IconOne from "./IconOne/IconOne";
+import IconTwo from "./IconTwo/IconTwo";
+
+
 
 export default function Home() {
   const navigate = useNavigate();
@@ -91,28 +101,16 @@ export default function Home() {
       </section>
 
       <section className={styles.iconek}>
+       
+<IconOne/>
         <div className={styles.containerico}>
           <div className={styles.iconaya}>
-            <i class="fa-brands fa-cc-visa"></i>
-          </div>
-          <div className={styles.readicoy}>
-            الدفع متاح كاش او فيزا او اونلاين
-          </div>
-        </div>
-
-        <div className={styles.containerico}>
-          <div className={styles.iconaya}>
-            <i class="fa-solid fa-money-bill-1"></i>
+          <FontAwesomeIcon className="fs-2" icon={faMoneyBill} />
           </div>
           <div className={styles.readicoy}>شحن مجانى فوق 500ج</div>
         </div>
-
-        <div className={styles.containerico}>
-          <div className={styles.iconaya}>
-            <i class="fa-solid fa-truck"></i>
-          </div>
-          <div className={styles.readicoy}>توصيل نفس اليوم</div>
-        </div>
+<IconTwo/>
+      
       </section>
 
       <section id="bradsids" className={show.secfour}>
@@ -127,7 +125,7 @@ export default function Home() {
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="/public/Brands/Artboard-2-copy-10.webp" />
+            <img src="/Brands/Artboard-2-copy-10.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
@@ -143,7 +141,7 @@ export default function Home() {
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="/public/Brands/Artboard-2-copy-5.webp" />
+            <img src="/Brands/Artboard-2-copy-5.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
@@ -159,7 +157,7 @@ export default function Home() {
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">
-            <img src="/public/Brands/Artboard-2-copy.webp" />
+            <img src="/Brands/Artboard-2-copy.webp" />
           </div>
 
           <div className="g-col-lg-4 g-col-md-4">

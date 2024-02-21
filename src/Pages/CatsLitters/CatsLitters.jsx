@@ -3,6 +3,8 @@ import styles from "./CatsLitter.module.css";
 import Products from "../../Products.json";
 import LittersItems from "./LittersItems";
 import { getArticlesFromLocalS  } from "../../utils"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
 function CatsLitters() {
 

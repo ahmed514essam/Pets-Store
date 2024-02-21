@@ -1,6 +1,8 @@
 import React from 'react'
 import style from './CatStore.module.css'
 import catsData from '../../catsData.json'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
 export default function CatStore() {
   const [cats , setCats] = React.useState(catsData.cats);

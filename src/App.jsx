@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Root from "./Root.jsx";
+
 import Home from "./Pages/Home/Home.jsx";
 import DogStore from "./Pages/DogStore/DogStore.jsx";
 import CatStore from "./Pages/CatStore/CatStore.jsx";

@@ -3,7 +3,9 @@ import styles from './Profile.module.css'
 import { Link, useNavigate, useParams } from "react-router-dom";
 import dummyData from "../../dummyData.json";
 import { useState } from "react";
+
 import  './animy.css'
+import StarComponent from "./StarComponent/StarComponent";
 export default function AnimalProfile() {
   const { id } = useParams();
   const [filterItem, setFilterItem] = useState({});
@@ -57,26 +59,7 @@ const checkregbuy = () => {
 <div className={styles.details}>
 <div className={styles.author}>
 <h1>{filterItem.name} The Dog</h1>
-<div className={styles.stars}>
-  <ul>
-
-  <li>
-  <i className="fa-solid fa-star"></i>
-  </li>
-  <li>
-  <i className="fa-solid fa-star"></i>
-  </li>
-  <li>
-  <i  className="fa-solid fa-star"></i>
-  </li>
-  <li>
-  <i className="fa-solid fa-star"></i>
-  </li>
-  <li>
-  <i className="fa-solid fa-star "></i>
-  </li>
-  </ul>
-</div>
+<StarComponent/>
 <h3>Type of animal :  <span>{filterItem.species}</span> </h3>
 <h2>After Offers :  <span className={styles.spanprice}>{filterItem.Price}</span> </h2>
 
@@ -86,7 +69,9 @@ const checkregbuy = () => {
 {mustlog ? (
 <div className="text-center">
   <p className="text-danger">Please Register to buy what do you wat</p>
-  <p className="fs-2 text-danger"><i className="fa-solid fa-triangle-exclamation"></i></p>
+  <p className="fs-2 text-danger">
+    <img className={styles.warning} src="/warning.png" />
+  </p>
 </div>) : null
 }
 {/* ======================================================================= */}

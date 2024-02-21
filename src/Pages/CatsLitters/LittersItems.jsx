@@ -1,5 +1,7 @@
 import React from 'react'
 import styles from './CatsLitter.module.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom'
 
 function LittersItems({ image , name , Price ,pid , isMyCart , setLitterArticles}) {
