@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import style from "./Canvas.module.css";
 
-export default function CanvasItem({
+function CanvasItem({
   Price,
   name,
   image,
@@ -55,3 +55,4 @@ export default function CanvasItem({
     </>
   );
 }
+export default CanvasItem ;

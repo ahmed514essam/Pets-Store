@@ -2,10 +2,10 @@ import React, { useEffect, useState } from "react";
 import { getArticlesFromLocalS } from "../../utils";
 import CanvasItem from "./CanvasItem";
 import styles from "./Canvas.module.css";
-import CartItems from "../../Pages/Cart/CartItems/CartItems";
+
 import "./Head.css"
 function CanVas() {
-  const [fovouriteArticles, setFovouriteArticles] = useState(
+  const [fovouriteArticles, setFovouriteArticles]=useState(
     getArticlesFromLocalS()
   );
   useEffect(() => {

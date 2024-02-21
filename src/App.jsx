@@ -13,8 +13,8 @@ import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import CatSoftFood from "./Pages/CatSoftFood.jsx/CatSoftFood.jsx";
 import DogDry from "./Pages/DogDry/DogDry.jsx";
 import Cart from "./Pages/Cart/CartItems/Cart.jsx";
-import AccountPage from "./Pages/Account/AccountPage.jsx";
-import MyAcc from "./Pages/Account/MyAcc/MyAcc.jsx";
+// import AccountPage from "./Pages/Account/AccountPage.jsx";
+// import MyAcc from "./Pages/Account/MyAcc/MyAcc.jsx";
 import ProfLog from "./Pages/Account/ProfLog/ProfLog.jsx";
 import About from "./Pages/About/About.jsx";
 
