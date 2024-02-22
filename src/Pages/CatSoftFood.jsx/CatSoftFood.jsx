@@ -5,6 +5,7 @@ import { getArticlesFromLocalS  } from "../../utils"
 import CatSoftItem from './CatSoftItem';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
+import ScrollToTopButton from '../ScrollToTopButton/ScrollToTopButton';
 export default function CatSoftFood() {
 // const [ softs , setSofts] = React.useState(CatSoft.CatSoftFood);
 
@@ -60,6 +61,8 @@ useEffect(() => {
           ))}
         </div>
         </section>
+   <ScrollToTopButton/>
     </>
+
   )
 }

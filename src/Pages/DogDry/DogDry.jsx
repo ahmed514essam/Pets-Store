@@ -4,6 +4,7 @@ import styles from './DogDry.module.css'
 import Products from "../../Products.json";
 import DogDryItem from './DogDryItem';
 import { getArticlesFromLocalS  } from "../../utils"
+import ScrollToTopButton from '../ScrollToTopButton/ScrollToTopButton';
 function DogDry() {
    
     const [dog , setDog] = useState([]);
@@ -57,7 +58,7 @@ function DogDry() {
             ))}
           </div>
         </section>
-        
+        <ScrollToTopButton/>
       </>
       )
     }

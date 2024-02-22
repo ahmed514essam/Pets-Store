@@ -5,6 +5,7 @@ import LittersItems from "./LittersItems";
 import { getArticlesFromLocalS  } from "../../utils"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
+import ScrollToTopButton from "../ScrollToTopButton/ScrollToTopButton";
 
 function CatsLitters() {
 
@@ -58,6 +59,7 @@ function CatsLitters() {
           ))}
         </div>
       </section>
+      <ScrollToTopButton/>
     </>
   );
 }

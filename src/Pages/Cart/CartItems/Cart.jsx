@@ -4,6 +4,7 @@ import CartItems from "../CartItems/CartItems";
 import styles from "./cssMod/MyCart.module.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
+import ScrollToTopButton from "../../ScrollToTopButton/ScrollToTopButton";
 function Cart() {
   const [fovouriteArticles, setFovouriteArticles] = useState(
     getArticlesFromLocalS()
@@ -75,6 +76,7 @@ function Cart() {
           </table>
         </div>
       </section>
+      <ScrollToTopButton/>
     </>
   );
 }

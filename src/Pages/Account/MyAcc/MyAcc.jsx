@@ -22,6 +22,12 @@ const btnremoval = () => {
 }
 
 
+
+const btnlogOut =() => {
+navigate("/Accout");
+
+}
+
     const removeAcc = () => {
       localStorage.removeItem('userData');
       // navigate("/Account")
@@ -58,7 +64,7 @@ const cancelRemoveAcc = () => {
 
 <div className="btnAcc d-flex m-2" >
 <button onClick={btnremoval} className="bg-danger text-light p-2 fw-bold border-0 rounded">Remove Account</button>
-<button className="bg-primary text-white p-2 fw-bolder border-0 rounded">Log Out</button>
+<button onClick={btnlogOut} className="bg-primary text-white p-2 fw-bolder border-0 rounded">Log Out</button>
 </div>
 
 </section>

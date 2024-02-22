@@ -6,6 +6,7 @@ import dummyData from "../../dummyData.json";
 
 import React from "react";
 import { Link } from "react-router-dom";
+import ScrollToTopButton from "../ScrollToTopButton/ScrollToTopButton";
 
 export default function DogStore() {
   const [pets, petsSet] = React.useState(dummyData.pets);
@@ -55,7 +56,7 @@ export default function DogStore() {
         </p>
       </section>
 
-
+<ScrollToTopButton/>
 
 
     </>

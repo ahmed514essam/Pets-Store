@@ -9,6 +9,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMoneyBill }  from '@fortawesome/free-solid-svg-icons';
 import IconOne from "./IconOne/IconOne";
 import IconTwo from "./IconTwo/IconTwo";
+import ScrollToTopButton from "../ScrollToTopButton/ScrollToTopButton";
 
 
 
@@ -165,6 +166,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <ScrollToTopButton/>
     </>
   );
 }

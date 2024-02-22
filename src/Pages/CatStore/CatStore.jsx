@@ -4,6 +4,7 @@ import catsData from '../../catsData.json'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
+import ScrollToTopButton from '../ScrollToTopButton/ScrollToTopButton';
 export default function CatStore() {
   const [cats , setCats] = React.useState(catsData.cats);
   return (
@@ -40,6 +41,7 @@ export default function CatStore() {
 <h3>There's always more</h3>
 <p>Thank you for choosing our Pets Store as your preferred destination for all things pet-related. We are honored to be part of your journey in caring for and cherishing your pets. Our commitment to excellence extends beyond products; we aim to build a community that celebrates the joy, companionship, and unconditional love that pets bring into our lives.</p>
        </section>
+       <ScrollToTopButton/>
     </>
   )
 }

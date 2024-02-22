@@ -3,6 +3,7 @@ import Products from "../../Products.json";
 import style from "./CatDry.module.css";
 import React, { useState, useEffect } from "react";
 import Items from "./Components/Items";
+import ScrollToTopButton from "../ScrollToTopButton/ScrollToTopButton";
 
 
 
@@ -88,7 +89,7 @@ export default function CatDryFood() {
         </div>
       </section>
      
-
+<ScrollToTopButton/>
 
     </>
   );
