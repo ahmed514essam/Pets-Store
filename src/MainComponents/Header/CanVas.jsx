@@ -3,7 +3,7 @@ import { getArticlesFromLocalS } from "../../utils";
 import CanvasItem from "./CanvasItem";
 import styles from "./Canvas.module.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
+import { faCartShopping } from '@fortawesome/free-solid-svg-icons';
 import "./Head.css"
 function CanVas() {
   const [fovouriteArticles, setFovouriteArticles]=useState(
@@ -22,7 +22,7 @@ function CanVas() {
         data-bs-target="#offcanvasRight"
       >
 <span className="position-relative">
-       <div className="icaryio position-absolute p-1 z-3 text-wight rounded-pill  bg-danger  "> {fovouriteArticles.length}</div><div className="cary position-relative   p-1 rounded-pill  "><FontAwesomeIcon icon={faMagnifyingGlass} /></div>
+       <div className="icaryio position-absolute p-1 z-3 text-wight rounded-pill  bg-danger  "> {fovouriteArticles.length}</div><div className="cary position-relative   p-1 rounded-pill  "><FontAwesomeIcon icon={faCartShopping} /></div>
 </span>
       </button>
 

@@ -8,22 +8,40 @@ function CartItems({ Price, name, image, pid, setFovouriteArticles }) {
     setAlert(true);
   };
 
-  const [quan, setQuan] = useState(0);
+  const [quan, setQuan] = useState(1);
 
   function adder() {
     if (quan >= 10) {
       setQuan((quan) => quan);
     } else {
       setQuan((quan) => quan + 1);
+  
     }
+   
   }
   function minuser() {
     if (quan <= 1) {
       setQuan((quan) => quan);
     } else {
       setQuan((quan) => quan - 1);
+    
     }
+   
   }
+
+
+
+
+// useEffect(() => {
+
+//   const storedUserQuan = localStorage.getItem('quan');
+
+//   if (storedUserQuan) {
+//     setQuan(JSON.parse(storedUserQuan));
+//   }
+
+// },[])
+
   const [sum, setSum] = useState();
   useEffect(() => {
     setSum((quan * Price).toFixed(2));
