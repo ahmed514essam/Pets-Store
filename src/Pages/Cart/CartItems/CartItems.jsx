@@ -3,6 +3,7 @@ import style from "./cssMod/MyCart.module.css";
 import { useNavigate } from "react-router-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
+
 function CartItems({ Price, name, image, pid, setFovouriteArticles }) {
   const RemoveFromCart = () => {
     setAlert(true);
@@ -32,15 +33,11 @@ function CartItems({ Price, name, image, pid, setFovouriteArticles }) {
 
 
 
-// useEffect(() => {
+useEffect(() => {
 
-//   const storedUserQuan = localStorage.getItem('quan');
+  localStorage.setItem('quan', JSON.stringify(quan));
 
-//   if (storedUserQuan) {
-//     setQuan(JSON.parse(storedUserQuan));
-//   }
-
-// },[])
+},[quan])
 
   const [sum, setSum] = useState();
   useEffect(() => {
@@ -130,6 +127,8 @@ const checkregbuy = () => {
           </div>
         </div>
       ) : null}
+
+ 
     </>
   );
       

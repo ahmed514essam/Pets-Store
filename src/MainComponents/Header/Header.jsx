@@ -44,7 +44,7 @@ export default function Header() {
       <nav className="navbar navbar-expand-lg bg-body-tertiary border-bottom  w-100 z-3 ">
         <div className="container-fluid">
           <h1 className="honeheader  fs-2 fw-bold" href="#">
-            Scooby Doo
+            Scooby Store
           </h1>
           <button
             class="navbar-toggler"

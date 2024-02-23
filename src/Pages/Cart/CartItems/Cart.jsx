@@ -5,6 +5,7 @@ import styles from "./cssMod/MyCart.module.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import ScrollToTopButton from "../../ScrollToTopButton/ScrollToTopButton";
+
 function Cart() {
   const [fovouriteArticles, setFovouriteArticles] = useState(
     getArticlesFromLocalS()
@@ -15,7 +16,25 @@ function Cart() {
 
 
 
+// useEffect(() => {
+//   const storedUser = localStorage.getItem('quan');
+ 
+//   if (storedUser) {
+//     setLoka(JSON.parse(storedUser));
+//   }
 
+// }, [])
+
+// const [pri , setPri] = useState();
+ 
+// useEffect(() => {
+//   const storedUse = localStorage.getItem('Price');
+ 
+//   if (storedUse) {
+//     setPri(JSON.parse(storedUse));
+//   }
+
+// }, [])
 
   return (
     <>
